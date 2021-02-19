@@ -1,4 +1,6 @@
-# Luke's build of st - the simple (suckless) terminal
+# RMS-st - the simple (suckless) terminal
+
+This is forked from Luke Smith's st build.
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
 
@@ -70,7 +72,3 @@ To be clear about the color settings:
 
 Note that when you run `wal`, it will negate the transparency of existing windows, but new windows will continue with the previously defined transparency.
 
-## Contact
-
-- Luke Smith <luke@lukesmith.xyz>
-- [https://lukesmith.xyz](https://lukesmith.xyz)
